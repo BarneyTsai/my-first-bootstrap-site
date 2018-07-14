@@ -1,0 +1,24 @@
+.my-nav {
+  background: #FF6600;
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+.my-nav ul li {
+  margin-right: 10px;
+}
+
+.my-work h1{
+  text-align: center;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.img-responsive {
+  display: block;
+  margin-top: 45px;
+}
